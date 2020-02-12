@@ -1,0 +1,19 @@
+.box1{background:red;}
+.box2{background:green;}
+.box3{background:yellow;}
+.box4{background:pink;}
+.box5{background:white;}
+.box6{background:blue;}
+
+.box{
+	font-size:20px;
+	padding:35px;
+}
+
+.container{
+	display:flex;
+	height:300px;
+	border:2px solid red;
+	align-items:flex-start;
+}
+
